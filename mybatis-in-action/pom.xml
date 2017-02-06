@@ -64,5 +64,6 @@
 
 	<modules>
 		<module>chapter2</module>
+		<module>chapter8</module>
 	</modules>
 </project>
